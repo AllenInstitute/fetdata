@@ -90,4 +90,4 @@
 #'
 #'@source \url{"http://www.brainspan.org/static/download.html"}
 #'
-"structuresFET"
+"subregionsFET"
