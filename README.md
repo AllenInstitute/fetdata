@@ -17,7 +17,7 @@ In the `R` command line perform the following commands
 # Install devtools package
 install.package("devtools")
 
-# Install hbadata
+# Install fetdata
 devtools::install_github("edelsonc/fetdata")
 ```
 ## Additional Details
