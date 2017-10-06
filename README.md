@@ -18,7 +18,7 @@ In the `R` command line perform the following commands
 install.package("devtools")
 
 # Install fetdata
-devtools::install_github("edelsonc/fetdata")
+devtools::install_github("AllenInstitute/fetdata")
 ```
 ## Additional Details
 The source version of this package contains the code necessary to format the raw data downloaded from the [Allen Institute](http://human.brain-map.org/static/download) into the hosted `.rda` files. This code is located in `data-raw`.
